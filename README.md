@@ -1,3 +1,15 @@
 ## Argument-Keypoint Mapping for Automatic Argument Summarization
 
-Results are documented in this [link](https://docs.google.com/spreadsheets/d/1Irx8TPUCwarQB6o5MhpkOoZISCwHu7EmFk6-Q8Av2-Q/edit#gid=0)
+In this document, we walk through running our experiments on the Argument-to-keypoints task.
+
+### Data
+
+### Pre-processing
+
+### Baseline
+
+### Approach 1
+
+### Approach 2
+
+
