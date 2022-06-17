@@ -7,7 +7,7 @@ In this project we use the ArgKP dataset for Argument-to-keypoint summarization 
 The datasets for cross/in-domain are in the Data folder.
 
 ### Baseline
-```BERT/T5_baseline.ipynb```
+```BERT/T5_baseline.ipynb``` are the baseline of this project.
 ### Approach 1
 ```Approach1_T5_base_OpenPrompt.ipynb``` contains all the codes for different experiments of the approach 1. 
 
@@ -19,5 +19,6 @@ To reproduce the results of **few-shot** experiments, the **few-shot train set**
 
 To reproduce the results of different **subset** experiments, the **subset train set** should be imported.
 ### Approach 2
+The approach_2 folder contains the files about generation intermediary texts using T5-small and BART large (```BART/T5_approach_2.ipynb```) and match classification using Naive Bayes, SVM, Decision Tree (```machine learning classifiers.ipynb```) and BERT-base (```classification_BERT.ipynb```).
 
 
