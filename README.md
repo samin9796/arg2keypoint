@@ -1,6 +1,6 @@
 ## Argument-Keypoint Mapping for Automatic Argument Summarization
 
-In this project, we walk through running our experiments on the Argument-to-keypoints task with Approach 1 and Approach 2.
+In this work, we walk through running our experiments on the Argument-to-keypoints task with Approach 1 and Approach 2. The Github repo is still being prepared for reproducibility and easy understanding.
 
 ### Data
 In this project we use the ArgKP dataset for Argument-to-keypoint summarization task. 
